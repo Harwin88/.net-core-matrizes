@@ -1,0 +1,13 @@
+/home/harwin/Documentos/.net-core/bin/Debug/netcoreapp3.1/.net-core
+/home/harwin/Documentos/.net-core/bin/Debug/netcoreapp3.1/.net-core.deps.json
+/home/harwin/Documentos/.net-core/bin/Debug/netcoreapp3.1/.net-core.runtimeconfig.json
+/home/harwin/Documentos/.net-core/bin/Debug/netcoreapp3.1/.net-core.runtimeconfig.dev.json
+/home/harwin/Documentos/.net-core/bin/Debug/netcoreapp3.1/.net-core.dll
+/home/harwin/Documentos/.net-core/bin/Debug/netcoreapp3.1/.net-core.pdb
+/home/harwin/Documentos/.net-core/obj/Debug/netcoreapp3.1/.net-core.csprojAssemblyReference.cache
+/home/harwin/Documentos/.net-core/obj/Debug/netcoreapp3.1/.net-core.csproj.CoreCompileInputs.cache
+/home/harwin/Documentos/.net-core/obj/Debug/netcoreapp3.1/.net-core.AssemblyInfoInputs.cache
+/home/harwin/Documentos/.net-core/obj/Debug/netcoreapp3.1/.net-core.AssemblyInfo.cs
+/home/harwin/Documentos/.net-core/obj/Debug/netcoreapp3.1/.net-core.dll
+/home/harwin/Documentos/.net-core/obj/Debug/netcoreapp3.1/.net-core.pdb
+/home/harwin/Documentos/.net-core/obj/Debug/netcoreapp3.1/.net-core.genruntimeconfig.cache
